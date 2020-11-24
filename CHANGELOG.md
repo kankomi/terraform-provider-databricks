@@ -2,6 +2,7 @@
 
 ## 0.3.0
 
+* `databricks_notebook` got behavior changed
 * Added [databricks_service_principal](https://github.com/databrickslabs/terraform-provider-databricks/pull/386) resource.
 
 **Behavior changes**
