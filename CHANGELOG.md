@@ -3,6 +3,7 @@
 ## 0.3.0
 
 * `databricks_notebook` got behavior changed. TODO: handle RESOURCE_ALREADY_EXISTS for mkdirs
+* `skip_validation` from `databricks_instance_profile` was removed and is always set to `true`
 * Added [databricks_service_principal](https://github.com/databrickslabs/terraform-provider-databricks/pull/386) resource.
 
 **Behavior changes**
